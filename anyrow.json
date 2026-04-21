@@ -6,14 +6,14 @@
             "bin": [
                 "anyrow.exe"
             ],
-            "hash": "943dd50d184ff8282a01afdee7063b90bd434a66d6a289546422b554a803be8e"
+            "hash": "24fa663a2c26608aa12e9a32a905b0003f465fd0fef9f48aa299b8153ddfff16"
         },
         "arm64": {
             "url": "https://github.com/anyrow/cli/releases/download/v1.0.0/anyrow_1.0.0_windows_arm64.zip",
             "bin": [
                 "anyrow.exe"
             ],
-            "hash": "63e3bb6a56ac2a1bbb746d42866ffa821b6c0ca6a0effd391020dd219e940a9c"
+            "hash": "a2703c5fe44c822733f8364060f24053e7f1fe40574ad699c4870bdf71cf63d2"
         }
     },
     "homepage": "https://anyrow.ai",
